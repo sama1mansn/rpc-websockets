@@ -2,7 +2,7 @@
     "compilerOptions": {
         "outDir": "./build-ts",
         "declaration": true,
-        "allowUnreachableCode": false,
+        "allowUnreachableCode": true,
         "noImplicitAny": true,
         "target": "es2017",
         "moduleResolution": "node",
